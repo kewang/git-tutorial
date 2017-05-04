@@ -1,6 +1,6 @@
 # git-tutorial
 
-## 認識共同協作
+## [認識共同協作](/ch1.md)
 
 ## 原始碼火藥庫 GitHub
 
