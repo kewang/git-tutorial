@@ -13,3 +13,5 @@ GitHub 使用 Git 做為版本控制的核心，再加上許多社群的功能�
 * ......等
 
 ## GitHub Pages
+
+GitHub Pages 是 GitHub 提供的靜態網站發佈服務，只要撰寫 markdown，不需懂 CSS 就可以發佈一個簡單美觀的網站，通常可以拿來做為專案的說明頁。
