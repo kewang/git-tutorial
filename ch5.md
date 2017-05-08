@@ -7,5 +7,5 @@
 ## 下載
 
 ```
-使用 git pull
+git pull
 ```
